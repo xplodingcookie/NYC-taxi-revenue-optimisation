@@ -1,6 +1,5 @@
-# MAST30034 Project 1 README.md
+# Author
 - Name: `Dong Li`
-- Student ID: `1352898`
 
 **Research Goal:** My research goal is to predict the daily average fare amount for taxi rides in New York City
 
