@@ -1,5 +1,6 @@
-# Author
-- Name: `Dong Li`
+## README
+
+**Author:** `Dong Li`
 
 **Research Goal:** My research goal is to predict the daily average fare amount for taxi rides in New York City
 
